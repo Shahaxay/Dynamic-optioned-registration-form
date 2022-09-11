@@ -1,0 +1,5 @@
+provinence table 
+district table
+municipality table as per district with district name
+ward table for each municipality as per municipality name
+do another server request if one select is changed
